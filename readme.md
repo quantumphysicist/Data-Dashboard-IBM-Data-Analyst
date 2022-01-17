@@ -9,7 +9,7 @@ The related online interactive dashboard can be accessed here: https://tinyurl.c
 
 ## Project Motivation<a name="motivation"></a>
 
-I want to show that we can take use data analysis to determine which IT skills will be in demand in the future..
+I want to show that we can use data analysis to determine which IT skills will be in demand in the future..
 
 
 
