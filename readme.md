@@ -35,7 +35,7 @@ These are fully described in the pdf.
 
 ## Screenshot of one tab of the Dashboard <a name="screenshot"></a>
 <p align="center">
-  <img src="dashboard-tab2-screenshot.PNG" />
+  <img src="dashboard-tab2-screenshot.png" />
 </p>
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
