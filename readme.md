@@ -41,4 +41,7 @@ These are fully described in the pdf.
 </p>
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
+
+Author: Dr. Renju Mathew.
+
 Thanks to Coursera for the idea for this project, to Stack OverFlow for data, and to IBM for "IBM Cloud Pak for Data".
