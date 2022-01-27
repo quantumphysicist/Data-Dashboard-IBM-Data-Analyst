@@ -45,4 +45,4 @@ These are fully described in the pdf.
 
 Author: Dr. Renju Mathew.
 
-Thanks to Coursera for the idea for this project, to Stack OverFlow for data, and to IBM for "IBM Cloud Pak for Data".
+Thanks to Coursera for the idea for this project, to Stack OverFlow for the data, and to IBM for "IBM Cloud Pak for Data".
