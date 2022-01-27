@@ -1,6 +1,6 @@
-#  Data Dashboard
+#  Data Dashboard Documentation
 
-## The related online interactive dashboard can be accessed here: https://tinyurl.com/4c9szz63
+## The interactive dashboard can be accessed here: https://tinyurl.com/4c9szz63
 
 ### Table of Contents
 
