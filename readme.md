@@ -1,6 +1,7 @@
 #  Data Dashboard
 
-The related online interactive dashboard can be accessed here: https://tinyurl.com/4c9szz63
+## The related online interactive dashboard can be accessed here: https://tinyurl.com/4c9szz63
+
 ### Table of Contents
 
 1. [Project Motivation](#motivation)
